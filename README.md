@@ -14,22 +14,18 @@ PyTorch implementation of [*Residual Pyramid Learning for Single-Shot Semantic S
 
 Please cite RPNet in your publications if it helps your research:
 
-    @article{DBLP:journals/corr/abs-1903-09746,
-      author    = {Xiaoyu Chen and
-                   Xiaotian Lou and
-                   Lianfa Bai and
-                   Jing Han},
-      title     = {Residual Pyramid Learning for Single-Shot Semantic Segmentation},
-      journal   = {CoRR},
-      volume    = {abs/1903.09746},
-      year      = {2019},
-      url       = {http://arxiv.org/abs/1903.09746},
-      archivePrefix = {arXiv},
-      eprint    = {1903.09746},
-      timestamp = {Mon, 01 Apr 2019 14:07:37 +0200},
-      biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1903-09746},
-      bibsource = {dblp computer science bibliography, https://dblp.org}
-    }
+    @ARTICLE{8744483,
+    author={X. {Chen} and X. {Lou} and L. {Bai} and J. {Han}},
+    journal={IEEE Transactions on Intelligent Transportation Systems},
+    title={Residual Pyramid Learning for Single-Shot Semantic Segmentation},
+    year={2019},
+    volume={},
+    number={},
+    pages={1-11},
+    keywords={Intelligent vehicles;real-time vision;scene understanding;residual learning.},
+    doi={10.1109/TITS.2019.2922252},
+    ISSN={1524-9050},
+    month={},}
 
 
 
